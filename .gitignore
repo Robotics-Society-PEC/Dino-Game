@@ -1,0 +1,95 @@
+# C++ compiled object files and libraries
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+*.dll
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+
+# C++ precompiled headers and generated files
+*.gch
+*.pch
+
+# Static libraries
+*.a
+
+# Debug files
+*.dSYM/
+*.stackdump
+
+# Build directories
+build/
+bin/
+lib/
+
+# PlatformIO build folders
+.pio/
+.pioenvs/
+.piolibdeps/
+*.elf
+*.map
+
+# PlatformIO core files
+platformio.ini
+
+# VSCode settings and extensions
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# VSCode workspace files
+*.code-workspace
+
+# Clangd cache
+.clangd/
+
+# Temporary files and logs
+*.log
+*.tmp
+tmp/
+*.temp
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+*.swn
+
+# MacOS generated files
+.DS_Store
+
+# Python cache (if using Python scripts)
+__pycache__/
+*.py[cod]
+
+# Other system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# CMake generated files (if using CMake)
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+CMakeScripts/
+Makefile
+
+# JetBrains IDEs (if using CLion)
+.idea/
+*.iml
+
+# Other editor temporary files
+*.vscode/*
+*.code-workspace
+
+# Node modules (if using Node.js)
+node_modules/
