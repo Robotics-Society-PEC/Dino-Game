@@ -3,6 +3,9 @@
 This Repository contains a simple attempt at replicating the famous dinosaur game of Chrome and running it on an arduino with an LCD and a push button.
 
 # Sample Pictures
+
+## DEMO 
+![Game running GIF](Images/dino.gif)
 ## This is the first screen you would see when you startup the code.
 
 ![Start Page](Images/START.jpg)
