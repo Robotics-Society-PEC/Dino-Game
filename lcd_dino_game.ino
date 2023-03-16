@@ -1,3 +1,63 @@
+/*
+*Robotics Pec
+*robotics@pec.edu.in
+*
+*                    GNU GENERAL PUBLIC LICENSE
+*                       Version 3, 29 June 2007
+*
+*Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
+*Everyone is permitted to copy and distribute verbatim copies
+*of this license document, but changing it is not allowed.
+*
+*The GNU General Public License is a free, copyleft license for
+*software and other kinds of works.
+*
+*THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY
+*APPLICABLE LAW.  EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT
+*HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY
+*OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+*THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+*PURPOSE.  THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM
+*IS WITH YOU.  SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF
+*ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+*/
+
+
+/*
+  Dino game on arduino
+
+  This sketch Demonstrates how to use a 16x2 lCD display, 
+  to recreate the legendary Chrome dino game
+  
+ The circuit:
+ * LCD RS pin to digital pin 12
+ * LCD Enable pin to digital pin 11
+ * LCD D4 pin to digital pin 7
+ * LCD D5 pin to digital pin 6
+ * LCD D6 pin to digital pin 5
+ * LCD D7 pin to digital pin 4
+ * LCD R/W pin to ground
+ * LCD VSS pin to ground
+ * LCD VCC pin to 5V
+ * 10K resistor:
+ * ends to +5V and ground
+ * wiper to LCD VO pin (pin 3)
+
+ Library originally added 18 Apr 2008
+ by David A. Mellis
+ library modified 5 Jul 2009
+ by Limor Fried (http://www.ladyada.net)
+ example added 9 Jul 2009
+ by Tom Igoe
+ modified 22 Nov 2010
+ by Tom Igoe
+ modified 7 Nov 2016
+ by Arturo Guadalupi
+
+ This example code is in the public domain.
+*/
+
+// include the library code:
 #include <LiquidCrystal.h>
 
 // defined the pins for the LCD
