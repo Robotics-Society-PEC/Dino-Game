@@ -58,7 +58,6 @@
 */
 
 // include the library code:
-#include <Arduino.h>
 #include <LiquidCrystal.h>
 
 // defined the pins for the LCD
