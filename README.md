@@ -1,3 +1,12 @@
+<div align="center">
+  <img src="https://img.shields.io/github/v/release/Robotics-Society-PEC/arduino_lcd_dino_chrome_game" alt="GitHub Release">
+  <img src="https://img.shields.io/github/license/Robotics-Society-PEC/arduino_lcd_dino_chrome_game" alt="GitHub License">
+  <img src="https://img.shields.io/github/stars/Robotics-Society-PEC/arduino_lcd_dino_chrome_game?style=flat" alt="GitHub Repo stars">
+  <a href="https://gitpod.io/#https://github.com/Robotics-Society-PEC/arduino_lcd_dino_chrome_game.git">
+    <img src="https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod" alt="Gitpod Ready-to-Code">
+  </a>
+</div>
+
 # Arduino lcd dinosaur chrome game
 
 This Repository contains a simple attempt at replicating the famous dinosaur game of Chrome and running it on an arduino with an LCD and a push button.
