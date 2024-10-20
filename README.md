@@ -1,4 +1,7 @@
 <div align="center">
+  <a href="[https://gitpod.io/#https://github.com/Robotics-Society-PEC/Dino-Game.git](https://github.com/Robotics-Society-PEC/Dino-Game/actions/workflows/main.yaml)">
+    <img src="https://github.com/Robotics-Society-PEC/Dino-Game/actions/workflows/main.yaml/badge.svg" alt="Gitpod Ready-to-Code">
+  </a>
   <img src="https://img.shields.io/github/v/release/Robotics-Society-PEC/Dino-Game" alt="GitHub Release">
   <img src="https://img.shields.io/github/license/Robotics-Society-PEC/Dino-Game" alt="GitHub License">
   <img src="https://img.shields.io/github/stars/Robotics-Society-PEC/Dino-Game?style=flat" alt="GitHub Repo stars">
